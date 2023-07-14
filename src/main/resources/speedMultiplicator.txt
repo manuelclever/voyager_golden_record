@@ -1,0 +1,5 @@
+golden record segment: 0,008ms
+Source file segment: 0,17s
+speed multiplicator for 0,17s to 0,16s: 1,0625
+speed multiplicator for 0,16s to 0,8s: 2
+speed multiplicator for 0,17s to 0,8s: 2,125
